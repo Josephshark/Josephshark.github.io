@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-important links:
+Important links:
 -[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 -[repository settings](https://github.com/Josephshark/Josephshark.github.io/settings/pages).
 -[documentation](https://docs.github.com/categories/github-pages-basics/)
